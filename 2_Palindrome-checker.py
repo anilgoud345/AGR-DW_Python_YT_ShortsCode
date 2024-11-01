@@ -35,12 +35,3 @@ print(f"radar is {'a palindrome' if is_palindrome('radar') else 'not a palindrom
 #####################################
 # Junior Developer: Uses more explicit conditional statements and intermediate variables.
 # Senior Developer: Utilizes direct comparison and inline conditions for brevity and clarity.
-
-
-
-
-
-
-# 2. Palindrome Checker - # python
-
-# Junior Developer:
